@@ -67,9 +67,8 @@ The dashboard provides a structured analytical view of lead volume, lead status,
 
 <h2>Project Files</h2>
 
-- Power BI Dashboard (.pbix)
-- Dashboard Report (.pdf)
-- Project Documentation
+- <a href="Leads%20Analytics%20Dashboard.pbix">Power BI Dashboard (.pbix)</a>
+- <a href="Leads%20Analytics%20Dashboard.pdf">Dashboard Report (.pdf)</a>
 
 <h2>Project Objective</h2>
 
